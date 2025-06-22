@@ -79,6 +79,12 @@
 
 
 ## Other screen shots
+
+How plugin array looks like in `~/.zshrc`
+<br/>
+<br/>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/84d96430-a42a-4451-a104-d8b819c8af85" />
+
 Auto completion in action
 <br/>
 <br/>
