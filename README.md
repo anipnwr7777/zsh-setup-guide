@@ -78,6 +78,14 @@
 <img width="600" alt="After" src="https://github.com/user-attachments/assets/8485180f-fb06-4733-a7b6-97b0093b6dd6" />
 
 
+## Other screen shots
+Auto completion in action
+<br/>
+<br/>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/89203e8c-0769-41ad-8268-e8124311cc77" />
+
+
+
 ## Reference used 
 - For Mac, a one-stop installation guide can be found here: https://sourabhbajaj.com/mac-setup/iTerm/zsh.html (this one has other cool stuff for mac as well 😉)
 - Different plugins : https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins
