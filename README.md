@@ -79,6 +79,6 @@
 
 
 ## Reference used 
-- For Mac, a one-stop installation guide can be found here: https://sourabhbajaj.com/mac-setup/iTerm/zsh.html
+- For Mac, a one-stop installation guide can be found here: https://sourabhbajaj.com/mac-setup/iTerm/zsh.html (this one has other cool stuff for mac as well 😉)
 - Different plugins : https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins
 - Wiki : https://github.com/ohmyzsh/ohmyzsh/wiki
